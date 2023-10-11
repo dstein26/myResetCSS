@@ -22,6 +22,10 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	font-family: inherit;
+}
+html
+{
 	font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	/* ODIN Project System Font-Stack */
 }
 /* HTML5 display-role reset for older browsers */
